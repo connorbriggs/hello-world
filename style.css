@@ -1,0 +1,13 @@
+.main-title {
+    padding: 16px;
+    border-width: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-start-end-radius: 5px;
+    border-style: solid;
+    outline-color: #3BA5DC;
+    background-color: #231F20;
+    color: #F2F2F2;
+}
